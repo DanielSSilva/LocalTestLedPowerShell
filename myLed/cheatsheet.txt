@@ -1,0 +1,1 @@
+scp -r /home/daniel/Documents/RPI/myLed/bin/Debug/netcoreapp2.0/linux-arm/publish/ pi@10.42.0.17:/home/pi/Desktop/myLeds
